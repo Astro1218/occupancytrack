@@ -1,0 +1,511 @@
+.communities button,
+.communities .dropdown-menu,
+.communities .btn-group,
+.edits button,
+.edits .dropdown-menu,
+.edits .btn-group,
+.adds button,
+.adds .dropdown-menu,
+.adds .btn-group,
+.reports button,
+.reports .dropdown-menu,
+.reports .btn-group,
+.companyReports button,
+.companyReports .dropdown-menu,
+.companyReports .btn-group,
+.role button,
+.role .dropdown-menu,
+.role .btn-group {
+    width: 100%;
+}
+
+.communities a,
+.edits a,
+.adds a,
+.reports a,
+.companyReports a,
+.role a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.mainpage {
+    height: 80%;
+}
+
+.mainContainer {
+    height: 100%;
+}
+
+.landingtitle {
+    font-weight: bold;
+}
+
+.vewCompany label {
+    width: 30%;
+}
+
+.vewCompany dropdown {
+    width: 70%;
+}
+
+
+/* scrollblar */
+
+body::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    background-color: #F5F5F5;
+}
+
+body::-webkit-scrollbar {
+    width: 5px;
+    background-color: #F5F5F5;
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: var(--main-color-one);
+    background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, .2) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .2) 50%, rgba(255, 255, 255, .2) 75%, transparent 75%, transparent)
+}
+
+.mydropdown {
+    width: 70% !important;
+}
+
+.dropdown-menu li a:hover {
+    background-color: rgba(70, 70, 70, .7) !important;
+}
+
+.viewCompanySummaryForPeriod {
+    width: 60% !important;
+}
+
+.myreportperiod {
+    width: 70% !important;
+}
+
+.footerData {
+    width: 100%;
+    text-align: center;
+}
+
+.align-items-stretch {
+    width: 100%;
+}
+
+.header-menu-wrapper {
+    width: 92%;
+}
+
+.menu-item {
+    color: white;
+}
+
+.summarycontainer {
+    width: 100%;
+}
+
+.MainTitle {
+    text-align: center !important;
+    vertical-align: middle !important;
+    width: 35% !important;
+    font-size: 18px !important;
+}
+
+.table-dark {
+    border-radius: 5px !important;
+}
+
+.viewtable th,
+.viewtable td {
+    font-size: 15px;
+    text-align: center !important;
+}
+
+.firstth {
+    border-bottom: 1px solid !important;
+}
+
+.finalth {
+    border-top: 1px solid !important;
+}
+
+#kt_header {
+    max-height: 80px !important;
+    position: fixed;
+    width: 100%;
+    padding-left: 8%;
+    padding-right: 8%;
+    border-bottom: 1px solid rgba(0, 0, 255, .1) !important;
+    background: lightblue !important;
+}
+
+.OrderName:hover {
+    cursor: pointer;
+    transition: 0.5s !important;
+    transform: scale(1.1) !important;
+}
+
+.footer {
+    background: lightblue !important;
+}
+
+.TitleHeaderBar {
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.ContentBar {
+    padding-left: 5%;
+    padding-bottom: 2%;
+}
+
+.goBtn {
+    width: 170px;
+    height: 48px;
+}
+
+.row-align-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.viewtable {
+    background-color: white;
+    border-radius: 10px;
+}
+
+.inactiveBtn {
+    cursor: pointer;
+}
+
+.inactiveBtn:hover {
+    border-bottom: 1px solid #6993ff;
+    display: inline-block;
+}
+
+.MainTitletwo {
+    width: 10% !important;
+    vertical-align: middle !important;
+}
+
+.headbang th {
+    font-size: 11px !important;
+    font-weight: normal !important;
+}
+
+.titledate td {
+    font-size: 11px !important;
+}
+
+.dn {
+    display: none !important;
+}
+
+.bg-back-logo {
+    background-size: 61% !important;
+    background-image: url(/assets/logos/header-bg.png) !important;
+    background-position-x: right !important;
+    background-position-y: top !important;
+}
+
+.login.login-4 .login-form {
+    max-width: 520px !important;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.2);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    transition-property: background, border, border-radius, box-shadow;
+    transition-duration: 0.3s, 0.3s, 0.3s, 0.3s;
+    transition-timing-function: ease, ease, ease, ease;
+    transition-delay: 0s, 0s, 0s, 0s;
+    margin: 0px 0px 0px 0100px;
+    padding: 3em 3em 3em 1em;
+}
+
+#kt_content {
+    background: white;
+    padding: 0;
+}
+
+.headerLine {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+#kt_footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #1b134d;
+    text-align: center;
+}
+
+.logintitle {
+    text-align: left;
+    color: #ddd;
+}
+
+#login_signin_form input {
+    font-size: 15px !important;
+}
+
+.btn-rounded {
+    border: 1px solid var(--main-color-one);
+    padding: 12px 30px;
+    border-radius: 5px;
+    transition: all 500ms;
+    font-weight: 600;
+    background-color: var(--main-color-one);
+    color: #fff;
+    transition: all 500ms;
+    font-size: 15px;
+    text-align: center;
+}
+
+.btn-rounded {
+    color: #fff!important;
+}
+
+.btn-disabled {
+    border: 1px solid #797384!important;
+    background-color: #797384!important;
+}
+
+.sub-header {
+    color: #000;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.range-div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    width: 100%;
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+.error-message {
+    color: red;
+    font-weight: 500;
+    font-size: 14px;
+    margin-top: 15px;
+}
+
+.reports-data {
+    font-size: 16px;
+    font-weight: 300;
+}
+
+#kt_header_menu_wrapper {
+    justify-content: flex-end;
+}
+
+.elementor-background-overlay {
+    background-image: url(/assets/logos/01.png);
+    background-position: center left;
+    background-repeat: no-repeat;
+    background-size: auto;
+    opacity: 0.13;
+    transition: background 0.9s, border-radius 0.3s, opacity 0.9s;
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    position: fixed;
+}
+
+table tr th, table tr td {
+    vertical-align: middle !important;
+}
+
+.hellotitle {
+    color: black;
+}
+
+.sortEmotic th span {
+    display: inline-block !important;
+}
+
+.sortEmotic th {
+    height: 20px !important;
+    overflow: hidden !important;
+}
+
+.headergroup span {
+    width: 100% !important;
+}
+
+.container {
+    overflow: auto;
+}
+
+.table-condensed td:nth-child(6) {
+    background: #80808f !important;
+    color: black !important;
+}
+
+.table-condensed td:nth-child(6):hover {
+    background: green !important;
+}
+
+.dropdownC .dropdown-menu,
+.dropdownC button {
+    width: 200px !important;
+}
+
+tbody tr:nth-child(1) {
+    background: transparent !important;
+}
+
+.EditactionCencaps button {
+    width: 100% !important;
+}
+
+.manageheader:hover {
+    transform: scale(1.2);
+    transition: .5s;
+}
+
+.manageheader a:hover {
+    border-bottom: 1px solid black;
+}
+
+.bb {
+    border-bottom: 1px solid black !important;
+}
+
+#kt_datatable2 .datatable-body, #kt_datatable23 .datatable-body {
+    height: 600px !important;
+    overflow: auto;
+}
+
+.fwb {
+    font-weight: bold !important;
+}
+
+#kt_page_stretched_card {
+    width: 100% !important;
+}
+
+.me table {
+    border-bottom: 2px solid !important;
+}
+
+/* class */
+
+.di {
+    display: inline-block !important;
+}
+
+.f-s-16 {
+    font-size: 16px !important;
+}
+
+.w100 {
+    width: 100% !important;
+}
+
+.cb>* {
+    color: black !important;
+}
+
+.w-10 {
+    width: 10% !important;
+}
+
+.w-20 {
+    width: 20% !important;
+}
+
+.w-30 {
+    width: 30% !important;
+}
+
+.w-40 {
+    width: 40% !important;
+}
+
+.w-45 {
+    width: 45% !important;
+}
+
+.w-50 {
+    width: 50% !important;
+}
+
+.w-60 {
+    width: 60% !important;
+}
+
+.w-70 {
+    width: 70% !important;
+}
+
+.w-80 {
+    width: 80% !important;
+}
+
+.w-90 {
+    width: 90% !important;
+}
+
+.w-100 {
+    width: 100% !important;
+}
+
+.jcc {
+    justify-content: center !important;
+}
+
+.jcfe {
+    justify-content: flex-end !important;
+}
+
+.jcfs {
+    justify-content: flex-start !important;
+}
+
+.hs>*:hover {
+    transition: .5s;
+    transform: scale(1.3);
+    cursor: pointer;
+}
+
+.tar {
+    text-align: right !important;
+}
+
+.tac {
+    text-align: center !important;
+}
+
+.p-r-1 {
+    padding-right: 1% !important;
+}
+
+.dashboard-btn-group {
+    width: 100%;
+    margin-bottom: 20px;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.dashboard-btn-group button {
+    width: 180px!important;
+    height: 50px!important;
+    padding: 0;
+    font-size: 12px;
+}
+
+.dashboard-btn-group button.active {
+    background-color: #6993ff;
+}

@@ -1,0 +1,108 @@
+ Property name,Report Section,Data type,Data count,Care level
+Bellingham,Capacity,Resident Capacity,24,Cottage
+Bellingham,Capacity,Resident Capacity,46,Manor
+Bellingham,Census,Census,23,Cottage
+Bellingham,Census,Census,46,Manor
+Bellingham,Statistics,YTD Move-Outs,2,Cottage
+Bellingham,Statistics,WTD Move-Ins,1,Manor
+Bellingham,Statistics,YTD Move-Ins,3,Manor
+Bellingham,Statistics,YTD Move-Outs,2,Manor
+Billings,Capacity,Resident Capacity,31,Cottage
+Billings,Capacity,Resident Capacity,67,Manor
+Billings,Census,Census,30,Cottage
+Billings,Census,Census,56,Manor
+Billings,MoveOuts,In Patient Hospice,1,Manor
+Billings,Statistics,YTD Move-Ins,5,Cottage
+Billings,Statistics,YTD Move-Outs,7,Cottage
+Billings,Statistics,WTD Move-Outs,1,Manor
+Billings,Statistics,YTD Move-Ins,6,Manor
+Billings,Statistics,YTD Move-Outs,5,Manor
+Bozeman,Capacity,Resident Capacity,12,Chalet
+Bozeman,Capacity,Resident Capacity,24,Cottage
+Bozeman,Capacity,Resident Capacity,73,Manor
+Bozeman,Capacity,Resident Capacity,10,Villa
+Bozeman,Census,Census,20,Cottage
+Bozeman,Census,Census,60,Manor
+Bozeman,Census,Census,10,Villa
+Bozeman,MoveOuts,Deceased,2,Cottage
+Bozeman,Statistics,WTD Move-Outs,2,Cottage
+Bozeman,Statistics,YTD Move-Ins,3,Cottage
+Bozeman,Statistics,YTD Move-Outs,6,Cottage
+Bozeman,Statistics,WTD Move-Ins,1,Manor
+Bozeman,Statistics,YTD Move-Ins,6,Manor
+Bozeman,Statistics,YTD Move-Outs,6,Manor
+Bozeman,Statistics,YTD Move-Ins,2,Villa
+Flagstaff,Capacity,Resident Capacity,32,Cottage
+Flagstaff,Capacity,Resident Capacity,60,Manor
+Flagstaff,Census,Census,12,Cottage
+Flagstaff,Census,Census,27,Manor
+Flagstaff,Inquiries,HG sign on construction site,1,Cottage
+Flagstaff,Inquiries,Highgate Car,3,Cottage
+Flagstaff,Inquiries,HG sign on construction site,1,Manor
+Flagstaff,Statistics,WTD Inquiries,4,Cottage
+Flagstaff,Statistics,WTD Move-Ins,2,Cottage
+Flagstaff,Statistics,YTD Move-Ins,8,Cottage
+Flagstaff,Statistics,WTD Inquiries,1,Manor
+Flagstaff,Statistics,YTD Move-Ins,16,Manor
+Flagstaff,Statistics,YTD Move-Outs,3,Manor
+Great Falls,Capacity,Resident Capacity,22,Cottage
+Great Falls,Capacity,Resident Capacity,34,Manor
+Great Falls,Census,Census,22,Cottage
+Great Falls,Census,Census,33,Manor
+Great Falls,Statistics,WTD Move-Ins,1,Cottage
+Great Falls,Statistics,YTD Move-Ins,1,Cottage
+Great Falls,Statistics,YTD Move-Outs,3,Cottage
+Great Falls,Statistics,WTD Move-Ins,1,Manor
+Great Falls,Statistics,YTD Move-Ins,7,Manor
+Great Falls,Statistics,YTD Move-Outs,2,Manor
+Prescott,Capacity,Resident Capacity,24,Cottage
+Prescott,Capacity,Resident Capacity,63,Manor
+Prescott,Census,Census,25,Cottage
+Prescott,Census,Census,51,Manor
+Prescott,MoveOuts,Deceased,1,Cottage
+Prescott,Statistics,WTD Move-Outs,1,Cottage
+Prescott,Statistics,YTD Move-Outs,3,Cottage
+Prescott,Statistics,YTD Move-Ins,8,Manor
+Prescott,Statistics,YTD Move-Outs,5,Manor
+Temecula,Capacity,Resident Capacity,36,Cottage
+Temecula,Capacity,Resident Capacity,52,Manor
+Temecula,Census,Census,35,Cottage
+Temecula,Census,Census,49,Manor
+Temecula,Statistics,YTD Move-Ins,3,Cottage
+Temecula,Statistics,YTD Move-Outs,7,Cottage
+Temecula,Statistics,YTD Move-Ins,4,Manor
+Temecula,Statistics,YTD Move-Outs,4,Manor
+Vancouver,Capacity,Resident Capacity,23,Cottage
+Vancouver,Capacity,Resident Capacity,33,Manor
+Vancouver,Capacity,Resident Capacity,8,Villa
+Vancouver,Census,Census,19,Cottage
+Vancouver,Census,Census,32,Manor
+Vancouver,Census,Census,8,Villa
+Vancouver,MoveOuts,Deceased,2,Cottage
+Vancouver,Statistics,WTD Move-Outs,2,Cottage
+Vancouver,Statistics,YTD Move-Ins,3,Cottage
+Vancouver,Statistics,YTD Move-Outs,5,Cottage
+Vancouver,Statistics,WTD Move-Ins,1,Manor
+Vancouver,Statistics,YTD Move-Ins,3,Manor
+Vancouver,Statistics,YTD Move-Outs,3,Manor
+Vancouver,Statistics,YTD Move-Ins,1,Villa
+Wenatchee,Capacity,Resident Capacity,0,Chalet
+Wenatchee,Capacity,Resident Capacity,16,Cottage
+Wenatchee,Capacity,Resident Capacity,43,Manor
+Wenatchee,Census,Census,13,Cottage
+Wenatchee,Census,Census,43,Manor
+Wenatchee,MoveOuts,Home,1,Manor
+Wenatchee,Statistics,WTD Move-Ins,1,Cottage
+Wenatchee,Statistics,YTD Move-Ins,2,Cottage
+Wenatchee,Statistics,YTD Move-Outs,4,Cottage
+Wenatchee,Statistics,WTD Move-Ins,2,Manor
+Wenatchee,Statistics,WTD Move-Outs,1,Manor
+Wenatchee,Statistics,YTD Move-Ins,8,Manor
+Wenatchee,Statistics,YTD Move-Outs,6,Manor
+Yakima,Capacity,Resident Capacity,22,Cottage
+Yakima,Capacity,Resident Capacity,34,Manor
+Yakima,Census,Census,24,Cottage
+Yakima,Census,Census,32,Manor
+Yakima,Statistics,YTD Move-Ins,1,Cottage
+Yakima,Statistics,YTD Move-Ins,3,Manor
+Yakima,Statistics,YTD Move-Outs,4,Manor
